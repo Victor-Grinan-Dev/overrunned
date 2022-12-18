@@ -1,0 +1,20 @@
+- a turtle(blue) in the middle of the screen with a weapon
+- the weapon has rate, range and damage. more atributes
+- many red turtles generated with random sizes in random position out of the screen
+- sizes represents health of the enemy
+- all red turtles move towards the turtle(blue) in middle
+- turtle(blue) automatically turns to face closer enemy
+- if enemy turtle(red) is in weapon range, weapon shoots at own rate
+- if the blue moves, stays at position and all enemies and scenery moves to create the effect of blue actual moving.
+- if enemy gets targeted and shot at reduce health by weapon damage.
+- if health = or < 0 enemy dies
+- if enemy dies add point to score board
+- if enemy reach closer character explode enemy
+- reduce character health by enemy left_health/damage
+- as time pass by enemies are more and bigger or faster or combination of both?
+- randomly generate objects in the map like equipment, consumables, or other members
+- members have other color and stats (randomly generated weapon/color/name)
+- join main character's squad if there is space and character touch member
+- every some time level boss aperars to represent level limit
+- red turtle spaming doesnt stop
+- if enemy boss killed game continues non stop until characters are dead
